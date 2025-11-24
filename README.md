@@ -4,6 +4,7 @@
 L'objectif de ce TP est de configurer une application Java avec Hibernate et MySQL pour gérer la persistance des données. 
 
 #### La structure du projet 
+<img width="656" height="501" alt="Strructure de projet TP4" src="https://github.com/user-attachments/assets/fa656543-e059-452d-97be-d28cdaa61a4f" />
 
 #### Les entités JPA 
 <img width="882" height="635" alt="image" src="https://github.com/user-attachments/assets/ed748771-c745-402f-976e-6df074e9283b" />
